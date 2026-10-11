@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Selectors and Derived State",
+    "slug": "selectors-derived-state-demo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "54.0.0"
+  }
+}
